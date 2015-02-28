@@ -45,7 +45,7 @@ html {
   overflow: hidden;
 }
 
-ol{
+.list{
   margin: 0;
   padding: 0;
   text-decoration: none;
@@ -94,3 +94,7 @@ ol{
 background-color: rgb(113, 113, 113);
 }
 
+.complete {
+    text-decoration: line-through;
+    color: #b1b1b1;
+}
